@@ -44,5 +44,5 @@
 
 ### 链接
 
-- [技术博客](http://16bing.com/)
+- [技术博客](https://16bing.com/)
 - [GitHub](https://github.com/coldice945)
